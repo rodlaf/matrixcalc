@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/matrixcalc/static/js/main.69066c1f.chunk.js",
-    "main.js.map": "/matrixcalc/static/js/main.69066c1f.chunk.js.map",
+    "main.js": "/matrixcalc/static/js/main.ba117bf5.chunk.js",
+    "main.js.map": "/matrixcalc/static/js/main.ba117bf5.chunk.js.map",
     "runtime-main.js": "/matrixcalc/static/js/runtime-main.9ecf5afe.js",
     "runtime-main.js.map": "/matrixcalc/static/js/runtime-main.9ecf5afe.js.map",
     "static/js/2.12aa9f3a.chunk.js": "/matrixcalc/static/js/2.12aa9f3a.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.9ecf5afe.js",
     "static/js/2.12aa9f3a.chunk.js",
-    "static/js/main.69066c1f.chunk.js"
+    "static/js/main.ba117bf5.chunk.js"
   ]
 }
